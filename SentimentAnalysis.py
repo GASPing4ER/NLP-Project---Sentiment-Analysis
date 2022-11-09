@@ -117,4 +117,4 @@ from sklearn import metrics
 # Accuracy of our built model
 print("Accuracy of our model:",metrics.accuracy_score(y_test, y_pred))
 
-# Accuracy of our model: 0.89045
+# Accuracy of our model: 0.8604
